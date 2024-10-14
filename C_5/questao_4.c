@@ -3,7 +3,7 @@
 
 int main(){
 
-	int numero, div=2, i;
+	int numero, div=0, i;
 
 	printf("Verificador de primalidade\nDigite o numero a ser verificado\n");
 	scanf("%d", &numero);
@@ -14,7 +14,7 @@ int main(){
             div += 1;
         }
     }
-    if (div > 2){
+    if (div > 0){
         printf("Esse numero nao é primo");
     } else {
         printf("Esse numero é primo");
