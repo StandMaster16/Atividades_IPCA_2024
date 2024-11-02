@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #define RAIO 6371
+#define M_PI 3.14159265359
 
 int main(){
 
