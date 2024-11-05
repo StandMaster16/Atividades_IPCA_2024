@@ -1,4 +1,4 @@
-#### Algumas atividades passadas pelo professor Cuevas no segundo período de 2024 na matéria de Introdução à programação de computadores.
+#### Algumas atividades passadas pelo professor Cuevas no segundo período de 2024 na matéria de Introdução à programação de computadores, além de outros códigos feitos no mesmo período.
 
 Linguagens usadas: </br>  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)

@@ -2,6 +2,7 @@
 #include <math.h>
 #define EULER 2.71828
 #define GRAVIDADE 9.81
+#define M_PI 3.14159265359
 
 int main(){
 

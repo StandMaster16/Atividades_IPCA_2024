@@ -6,7 +6,7 @@ int main(){
 	double y, x, x1, x2, cont = 0;
 	int i = 1, e;
 
-	printf("\nDigite um n�mero e eu calcularei a raiz quadrada desse n�mero: ");
+	printf("\nDigite um numero e eu calcularei a raiz quadrada deste: ");
 	scanf("%f", &y);
 
     if (y > 0) {
